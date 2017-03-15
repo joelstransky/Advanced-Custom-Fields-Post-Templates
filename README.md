@@ -1,6 +1,9 @@
 # Advanced-Custom-Fields-Post-Templates
 Adds the post type template support (since WP 4.7) to Advanced Custom Fields
 
+# UPDATE
+This is only needed if you are running WordPress! 4.7+ and your ACF version is below 5.5.0
+
 With WordPress! 4.7, we now have the ability to post types based on 'post'.
 https://make.wordpress.org/core/2016/11/03/post-type-templates-in-4-7/
 
